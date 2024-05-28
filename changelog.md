@@ -1,3 +1,12 @@
+### SuperMartijn642's Core Library 1.1.17
+- Added support for custom tag entry types
+- Added a namespace tag entry type
+- Added workaround for side `BUKKIT` related errors
+- Updated tag loading behaviour to match newer Minecraft versions
+
+### SuperMartijn642's Core Library 1.1.16a
+- Fixed crash with Tool Progression
+
 ### SuperMartijn642's Core Library 1.1.16
 - Allow `ClientRegistrationHandler#registerAtlasSprite` to accept a different namespace
 
